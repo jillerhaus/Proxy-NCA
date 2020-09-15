@@ -1,0 +1,54 @@
+2020-09-05 23:33:52,547 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 1, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 1.0, 'scaling_p': 1.0, 'lr_proxynca': 0.3, 'log_filename': 'cub-20200905-233349', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-05 23:33:52,548 Training for 1 epochs
+2020-09-05 23:33:52,550 **Evaluating initial model.**
+2020-09-05 23:34:40,138 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 1, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 1.0, 'scaling_p': 1.0, 'lr_proxynca': 0.3, 'log_filename': 'cub-20200905-233349', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-05 23:34:40,138 Training for 1 epochs
+2020-09-05 23:34:40,140 **Evaluating initial model.**
+2020-09-05 23:35:02,813 NMI: 45.831
+2020-09-05 23:35:06,047 R@1 : 30.520
+2020-09-05 23:35:06,173 R@2 : 42.843
+2020-09-05 23:35:06,299 R@4 : 55.587
+2020-09-05 23:35:06,424 R@8 : 69.345
+2020-09-05 23:35:33,364 Epoch: 0, loss: 4.012, time (seconds): 26.94.
+2020-09-05 23:35:33,365 **Evaluating.**
+2020-09-05 23:35:50,018 NMI: 47.147
+2020-09-05 23:35:53,664 R@1 : 30.756
+2020-09-05 23:35:53,795 R@2 : 43.383
+2020-09-05 23:35:53,921 R@4 : 56.499
+2020-09-05 23:35:54,048 R@8 : 69.564
+2020-09-05 23:35:54,051 Total training time (minutes): 1.23.
+2020-09-05 23:35:54,843 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 1, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 1.0, 'scaling_p': 3.0, 'lr_proxynca': 0.3, 'log_filename': 'cub-20200905-233349', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-05 23:35:54,844 Training for 1 epochs
+2020-09-05 23:35:54,845 **Evaluating initial model.**
+2020-09-05 23:36:11,343 NMI: 47.061
+2020-09-05 23:36:14,618 R@1 : 31.921
+2020-09-05 23:36:14,745 R@2 : 43.872
+2020-09-05 23:36:14,871 R@4 : 56.938
+2020-09-05 23:36:14,997 R@8 : 69.379
+2020-09-05 23:36:40,528 Epoch: 0, loss: 3.649, time (seconds): 25.53.
+2020-09-05 23:36:40,528 **Evaluating.**
+2020-09-05 23:36:57,598 NMI: 47.984
+2020-09-05 23:37:00,610 R@1 : 33.542
+2020-09-05 23:37:00,754 R@2 : 45.054
+2020-09-05 23:37:00,892 R@4 : 57.714
+2020-09-05 23:37:01,026 R@8 : 70.695
+2020-09-05 23:37:01,028 Total training time (minutes): 1.10.
+2020-09-05 23:37:01,862 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 1, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 1.0, 'scaling_p': 8.0, 'lr_proxynca': 0.3, 'log_filename': 'cub-20200905-233349', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-05 23:37:01,862 Training for 1 epochs
+2020-09-05 23:37:01,864 **Evaluating initial model.**
+2020-09-05 23:37:17,980 NMI: 46.658
+2020-09-05 23:37:21,331 R@1 : 31.516
+2020-09-05 23:37:21,459 R@2 : 43.974
+2020-09-05 23:37:21,586 R@4 : 57.225
+2020-09-05 23:37:21,717 R@8 : 70.949
+2020-09-05 23:37:46,954 Epoch: 0, loss: 4.224, time (seconds): 25.24.
+2020-09-05 23:37:46,954 **Evaluating.**
+2020-09-05 23:38:03,717 NMI: 46.863
+2020-09-05 23:38:06,602 R@1 : 31.465
+2020-09-05 23:38:06,729 R@2 : 42.286
+2020-09-05 23:38:06,856 R@4 : 54.878
+2020-09-05 23:38:06,983 R@8 : 67.893
+2020-09-05 23:38:06,985 Total training time (minutes): 1.09.
+2020-09-05 23:38:07,807 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 1, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 3.0, 'scaling_p': 1.0, 'lr_proxynca': 0.3, 'log_filename': 'cub-20200905-233349', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-05 23:38:07,808 Training for 1 epochs
+2020-09-05 23:38:07,810 **Evaluating initial model.**

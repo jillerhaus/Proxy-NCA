@@ -1,0 +1,26 @@
+2020-09-05 23:13:26,962 Training parameters: {'__module__': '__main__', 'dataset': 'food', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 2, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 1.0, 'scaling_p': 1.0, 'lr_proxynca': 0.3, 'log_filename': 'food-20200905-231322', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-05 23:13:26,979 Training for 2 epochs
+2020-09-05 23:13:26,981 **Evaluating initial model.**
+2020-09-05 23:16:03,966 NMI: 23.712
+2020-09-05 23:17:36,405 R@1 : 41.710
+2020-09-05 23:17:37,171 R@2 : 49.972
+2020-09-05 23:17:37,937 R@4 : 59.013
+2020-09-05 23:17:38,710 R@8 : 68.489
+2020-09-05 23:20:11,869 Epoch: 0, loss: 2.395, time (seconds): 153.16.
+2020-09-05 23:20:11,870 **Evaluating.**
+2020-09-05 23:22:55,539 NMI: 28.531
+2020-09-05 23:24:19,760 R@1 : 46.007
+2020-09-05 23:24:20,499 R@2 : 55.149
+2020-09-05 23:24:21,230 R@4 : 64.570
+2020-09-05 23:24:21,962 R@8 : 73.154
+2020-09-05 23:27:01,883 Epoch: 1, loss: 2.189, time (seconds): 159.91.
+2020-09-05 23:27:01,884 **Evaluating.**
+2020-09-05 23:29:44,618 NMI: 29.270
+2020-09-05 23:31:11,569 R@1 : 47.612
+2020-09-05 23:31:12,316 R@2 : 57.059
+2020-09-05 23:31:13,043 R@4 : 66.123
+2020-09-05 23:31:13,782 R@8 : 74.432
+2020-09-05 23:31:13,787 Total training time (minutes): 17.78.
+2020-09-05 23:31:17,532 Training parameters: {'__module__': '__main__', 'dataset': 'food', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 2, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 1.0, 'scaling_p': 3.0, 'lr_proxynca': 0.3, 'log_filename': 'food-20200905-231322', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-05 23:31:17,532 Training for 2 epochs
+2020-09-05 23:31:17,534 **Evaluating initial model.**

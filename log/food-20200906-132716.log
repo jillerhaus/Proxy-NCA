@@ -1,0 +1,15 @@
+2020-09-06 13:27:21,147 Training parameters: {'__module__': '__main__', 'dataset': 'food', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 20, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 3.0, 'scaling_p': 8.0, 'lr_proxynca': 1, 'log_filename': 'food-20200906-132716', 'results_filename': 'food-results.csv', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-06 13:27:21,147 Training for 20 epochs
+2020-09-06 13:27:21,149 **Evaluating initial model.**
+2020-09-06 13:29:37,865 Training parameters: {'__module__': '__main__', 'dataset': 'food', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 20, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 3.0, 'scaling_p': 8.0, 'lr_proxynca': 1, 'log_filename': 'food-20200906-132716', 'results_filename': 'food-results.csv', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-06 13:29:37,865 Training for 20 epochs
+2020-09-06 13:29:37,867 **Evaluating initial model.**
+2020-09-06 13:29:50,558 Training parameters: {'__module__': '__main__', 'dataset': 'food', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 20, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 3.0, 'scaling_p': 8.0, 'lr_proxynca': 1, 'log_filename': 'food-20200906-132716', 'results_filename': 'food-results.csv', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-06 13:29:50,559 Training for 20 epochs
+2020-09-06 13:29:50,560 **Evaluating initial model.**
+2020-09-06 13:30:44,913 Training parameters: {'__module__': '__main__', 'dataset': 'food', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 20, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 8.0, 'scaling_p': 1.0, 'lr_proxynca': 1, 'log_filename': 'food-20200906-132716', 'results_filename': 'food-results.csv', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-06 13:30:44,913 Training for 20 epochs
+2020-09-06 13:30:44,915 **Evaluating initial model.**
+2020-09-06 13:31:03,005 Training parameters: {'__module__': '__main__', 'dataset': 'food', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 20, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 8.0, 'scaling_p': 1.0, 'lr_proxynca': 1, 'log_filename': 'food-20200906-132716', 'results_filename': 'food-results.csv', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-06 13:31:03,005 Training for 20 epochs
+2020-09-06 13:31:03,007 **Evaluating initial model.**

@@ -1,0 +1,7 @@
+2020-09-07 21:14:59,628 Training parameters: {'__module__': '__main__', 'dataset': 'cars', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 15, 'gpu_id': 0, 'nb_workers': 12, 'with_nmi': False, 'scaling_x': 1.0, 'scaling_p': 1.0, 'lr_proxynca': 1, 'log_filename': 'cars-20200907-211456', 'results_filename': 'cars-results.csv', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-07 21:14:59,629 Training for 15 epochs
+2020-09-07 21:14:59,630 **Evaluating initial model.**
+2020-09-07 21:15:35,030 R@1 : 27.733
+2020-09-07 21:15:35,202 R@2 : 38.618
+2020-09-07 21:15:35,375 R@4 : 50.449
+2020-09-07 21:15:35,550 R@8 : 63.904

@@ -1,0 +1,9 @@
+2020-09-13 00:15:00,368 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 128, 'nb_epochs': 15, 'gpu_id': 0, 'nb_workers': 12, 'with_nmi': False, 'scaling_x': 1.0, 'scaling_p': 1.0, 'lr_proxynca': 1, 'log_filename': 'cub-20200913-001458', 'results_filename': 'cub-results.csv', 'seed': 0, '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None, 'sz_embeddings': 128}
+2020-09-13 00:15:00,370 Training for 15 epochs
+2020-09-13 00:15:00,374 **Evaluating initial model.**
+2020-09-13 00:16:36,722 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 128, 'nb_epochs': 15, 'gpu_id': 0, 'nb_workers': 12, 'with_nmi': False, 'scaling_x': 1.0, 'scaling_p': 1.0, 'lr_proxynca': 1, 'log_filename': 'cub-20200913-001458', 'results_filename': 'cub-results.csv', 'seed': 1, '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None, 'sz_embeddings': 64}
+2020-09-13 00:16:36,724 Training for 15 epochs
+2020-09-13 00:16:36,726 **Evaluating initial model.**
+2020-09-13 00:21:11,164 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 128, 'nb_epochs': 15, 'gpu_id': 0, 'nb_workers': 12, 'with_nmi': False, 'scaling_x': 1.0, 'scaling_p': 1.0, 'lr_proxynca': 1, 'log_filename': 'cub-20200913-001458', 'results_filename': 'cub-results.csv', 'seed': 1, '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None, 'sz_embeddings': 64}
+2020-09-13 00:21:11,165 Training for 15 epochs
+2020-09-13 00:21:11,168 **Evaluating initial model.**

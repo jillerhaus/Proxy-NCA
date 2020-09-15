@@ -1,0 +1,17 @@
+2020-09-05 18:09:41,310 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 4, 'log_filename': 'cub-20200905-180938', 'gpu_id': -1, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 3.0, 'scaling_p': 3.0, 'lr_proxynca': 1.0, '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None, 'lr_procynca': 1}
+2020-09-05 18:09:41,312 Training for 4 epochs
+2020-09-05 18:09:41,314 **Evaluating initial model.**
+2020-09-05 18:09:54,778 NMI: 47.676
+2020-09-05 18:09:55,421 R@1 : 32.411
+2020-09-05 18:09:55,493 R@2 : 45.527
+2020-09-05 18:09:55,566 R@4 : 59.521
+2020-09-05 18:09:55,639 R@8 : 71.945
+2020-09-05 18:10:20,554 Epoch: 0, loss: 4.351, time (seconds): 24.91.
+2020-09-05 18:10:20,554 **Evaluating.**
+2020-09-05 18:10:34,172 NMI: 42.542
+2020-09-05 18:10:34,837 R@1 : 22.772
+2020-09-05 18:10:34,910 R@2 : 33.508
+2020-09-05 18:10:34,983 R@4 : 46.708
+2020-09-05 18:10:35,056 R@8 : 60.280
+2020-09-05 18:10:59,440 Epoch: 1, loss: 3.214, time (seconds): 24.38.
+2020-09-05 18:10:59,441 **Evaluating.**

@@ -1,0 +1,13 @@
+2020-09-07 21:28:00,311 Training parameters: {'__module__': '__main__', 'dataset': 'food', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 128, 'nb_epochs': 15, 'gpu_id': 0, 'nb_workers': 8, 'with_nmi': False, 'scaling_x': 3.0, 'scaling_p': 8.0, 'lr_proxynca': 10, 'log_filename': 'food-20200907-212756', 'results_filename': 'food-results.csv', '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-07 21:28:00,312 Training for 15 epochs
+2020-09-07 21:28:00,314 **Evaluating initial model.**
+2020-09-07 21:30:59,713 R@1 : 41.623
+2020-09-07 21:31:00,533 R@2 : 49.906
+2020-09-07 21:31:01,347 R@4 : 58.943
+2020-09-07 21:31:02,151 R@8 : 68.431
+2020-09-07 21:32:48,697 Epoch: 0, loss: 4.762, time (seconds): 106.48.
+2020-09-07 21:32:48,697 **Evaluating.**
+2020-09-07 21:36:10,727 R@1 : 39.289
+2020-09-07 21:36:11,504 R@2 : 48.654
+2020-09-07 21:36:12,271 R@4 : 58.769
+2020-09-07 21:36:13,029 R@8 : 68.930
