@@ -1,0 +1,10 @@
+2020-09-16 12:38:36,606 Training parameters: {'__module__': '__main__', 'dataset': 'cars', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 128, 'nb_epochs': 40, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 8.0, 'scaling_p': 3.0, 'lr_proxynca': 1, 'log_filename': 'cars-20200916-123830', 'results_filename': 'cars-results.csv', 'torch_version': '1.1.0', 'edition': 0, 'seed': 0, '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None, 'sz_embeddings': 64}
+2020-09-16 12:38:36,607 Training for 40 epochs
+2020-09-16 12:38:36,617 **Evaluating initial model.**
+2020-09-16 12:39:16,461 NMI: 32.712
+2020-09-16 12:39:22,554 R@1 : 28.422
+2020-09-16 12:39:22,726 R@2 : 39.282
+2020-09-16 12:39:22,897 R@4 : 51.703
+2020-09-16 12:39:23,072 R@8 : 64.457
+2020-09-16 12:40:06,679 Epoch: 0, loss: 5.773, time (seconds): 43.61.
+2020-09-16 12:40:06,681 **Evaluating.**

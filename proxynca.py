@@ -55,4 +55,4 @@ if __name__ == '__main__':
     T = torch.randint(low=0, high=nb_classes, size=[sz_batch]).cuda()
     criterion = ProxyNCA(nb_classes, sz_embedding).cuda()
 
-    print(pnca(X, T.view(sz_batch)))
+    print(criterion(X, T.view(sz_batch)))
