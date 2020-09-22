@@ -5,7 +5,7 @@ class Food(BaseDataset):
         BaseDataset.__init__(self, root, classes, transform)
 
         index = 0
-        for folder in ['test']:
+        for folder in ['train']:
             for i in torchvision.datasets.ImageFolder(root =
                     os.path.join(root, folder)).imgs:
                 # i[1]: label, i[0]: root
