@@ -1,0 +1,8 @@
+2020-09-25 11:32:47,375 Training parameters: {'__module__': '__main__', 'dataset': 'cub', 'config': 'config1.json', 'sz_embedding': 128, 'sz_batch': 32, 'nb_epochs': 40, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 8.0, 'scaling_p': 8.0, 'lr_proxynca': 1, 'log_filename': 'cub-20200925-113245', 'results_filename': 'cub-results.csv', 'torch_version': '1.1.0', 'edition': 3, 'seed': 0, '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None, 'sz_embeddings': 128}
+2020-09-25 11:32:47,376 Training for 40 epochs
+2020-09-25 11:32:47,379 **Evaluating initial model.**
+2020-09-25 11:33:05,390 NMI: 52.351
+2020-09-25 11:33:10,868 R@1 : 41.020
+2020-09-25 11:33:10,995 R@2 : 53.984
+2020-09-25 11:33:11,122 R@4 : 67.167
+2020-09-25 11:33:11,250 R@8 : 78.005

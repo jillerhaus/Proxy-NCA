@@ -16,6 +16,13 @@
       },
       "root": "str('../../UPMC_Food101/images')"
     },
+    "food_test": {
+      "classes": {
+        "train": "range(0, 50)",
+        "eval": "range(50, 101)"
+      },
+      "root": "str('../../UPMC_Food101/images')"
+    },
     "cars": {
       "classes": {
         "train": "range(0, 98)",

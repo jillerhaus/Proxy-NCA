@@ -1,0 +1,3 @@
+2020-09-27 22:38:10,454 Training parameters: {'__module__': '__main__', 'dataset': 'food_test', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 32, 'nb_epochs': 20, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 1.0, 'scaling_p': 3.0, 'lr_proxynca': 1, 'log_filename': 'food_test-20200927-223804', 'results_filename': 'food_test-results.csv', 'torch_version': '1.1.0', 'edition': 0, 'seed': 0, 'train_classes': range(0, 50), 'eval_classes': range(50, 101), '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-27 22:38:10,455 Training for 20 epochs
+2020-09-27 22:38:10,457 **Evaluating initial model.**

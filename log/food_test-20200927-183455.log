@@ -1,0 +1,25 @@
+2020-09-27 18:34:57,937 Training parameters: {'__module__': '__main__', 'dataset': 'food_test', 'config': 'config1.json', 'sz_embedding': 64, 'sz_batch': 128, 'nb_epochs': 20, 'gpu_id': 0, 'nb_workers': 4, 'with_nmi': True, 'scaling_x': 1.0, 'scaling_p': 8.0, 'lr_proxynca': 1, 'log_filename': 'food_test-20200927-183455', 'results_filename': 'food_test-results.csv', 'torch_version': '1.1.0', 'edition': 0, 'seed': 0, 'train_classes': range(0, 50), 'eval_classes': range(50, 101), '__dict__': <attribute '__dict__' of 'args' objects>, '__weakref__': <attribute '__weakref__' of 'args' objects>, '__doc__': None}
+2020-09-27 18:34:57,938 Training for 20 epochs
+2020-09-27 18:34:57,939 **Evaluating initial model.**
+2020-09-27 18:35:57,295 NMI: 25.916
+2020-09-27 18:36:09,462 R@1 : 32.493
+2020-09-27 18:36:09,715 R@2 : 41.514
+2020-09-27 18:36:09,973 R@4 : 51.994
+2020-09-27 18:36:10,227 R@8 : 62.736
+2020-09-27 18:37:03,688 Epoch: 0, loss: 3.464, time (seconds): 53.46.
+2020-09-27 18:37:03,689 **Evaluating.**
+2020-09-27 18:37:40,776 NMI: 23.528
+2020-09-27 18:37:52,029 R@1 : 30.277
+2020-09-27 18:37:52,286 R@2 : 40.280
+2020-09-27 18:37:52,547 R@4 : 51.195
+2020-09-27 18:37:52,800 R@8 : 63.170
+2020-09-27 18:38:27,973 Epoch: 1, loss: 2.689, time (seconds): 35.17.
+2020-09-27 18:38:27,974 **Evaluating.**
+2020-09-27 18:39:04,705 NMI: 28.252
+2020-09-27 18:39:15,916 R@1 : 34.761
+2020-09-27 18:39:16,162 R@2 : 45.346
+2020-09-27 18:39:16,416 R@4 : 56.192
+2020-09-27 18:39:16,665 R@8 : 67.107
+2020-09-27 18:39:52,433 Epoch: 2, loss: 2.326, time (seconds): 35.77.
+2020-09-27 18:39:52,435 **Evaluating.**
+2020-09-27 18:40:29,942 NMI: 30.807
